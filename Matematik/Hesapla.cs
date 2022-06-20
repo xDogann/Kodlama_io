@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Matematik
+namespace Day3_Matematik
 {
     public class Hesapla
     {

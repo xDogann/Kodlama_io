@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassMetotDemo
+namespace Day3_ClassMetotDemo
 {
     internal class Musteri
     {

@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace Matematik
+namespace Day3_Matematik
 {
     class Program
     {
