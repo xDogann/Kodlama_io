@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Day3_ClassMetotDemo;
+using System;
 
 namespace ClassMetotDemo
 {
