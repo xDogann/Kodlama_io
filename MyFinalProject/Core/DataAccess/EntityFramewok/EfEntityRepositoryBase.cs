@@ -1,5 +1,4 @@
-﻿using Core.Entities;
-using Core.DataAccess;
+﻿using Core.DataAccess;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -7,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Linq.Expressions;
+using Core.Entities.Abstract;
 
 namespace Core.DataAccess.EntityFramewok
 {
